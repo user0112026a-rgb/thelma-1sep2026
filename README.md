@@ -1,2 +1,3 @@
 # thelma-1sep2026
-Created via MCP connection check
+
+Repository created and configured through the GitHub MCP connection.
